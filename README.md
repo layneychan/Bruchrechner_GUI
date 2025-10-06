@@ -19,3 +19,11 @@ The program workflow is straightforward:
 - Press the "=" button to process the input
 - The program reads the inputs and operation, then uses a switch-case logic to determine the appropriate calculation
 - The result is calculated, simplified and displayed in the textarea
+
+## Screenshots
+
+![GUI](images/gui.png)
+
+![addition](images/addition.png)
+
+![multiplication](images/multiplication.png)
